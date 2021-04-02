@@ -16,7 +16,7 @@ Finally, at the end of the project, the machine learning model we deployed in th
 
 ## Report
 
-The notebook for Milestone 1 (Tackling big data on a laptop) can be found [here]().
+The notebook for Milestone 1 (Tackling big data on a laptop) can be found [here](https://github.com/UBC-MDS/525_group-20/blob/main/notebooks/milestone1.ipynb).
 
 
 ## Contributors
