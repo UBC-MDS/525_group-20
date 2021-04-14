@@ -19,6 +19,9 @@ Finally, at the end of the project, the machine learning model we deployed in th
 The notebook for Milestone 1 (Tackling big data on a laptop) can be found [here](https://github.com/UBC-MDS/525_group-20/blob/main/notebooks/milestone1.ipynb).
 
 
+The notebook for Milestone 2 (Setup S3 bucket, EC2 instance & TLJH) can be found [here](https://github.com/UBC-MDS/525_group-20/blob/main/notebooks/Milestone2.ipynb).
+
+
 ## Contributors
 
 We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/UBC-MDS/525_group-20/graphs/contributors).
