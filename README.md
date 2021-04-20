@@ -22,6 +22,9 @@ The notebook for Milestone 1 (Tackling big data on a laptop) can be found [here]
 The notebook for Milestone 2 (Setup S3 bucket, EC2 instance & TLJH) can be found [here](https://github.com/UBC-MDS/525_group-20/blob/main/notebooks/Milestone2.ipynb).
 
 
+The notebook for Milestone 3 (Set up spark cluster and develop a machine learning model to deploy in the cloud for the next milestone) can be found [here](https://github.com/UBC-MDS/525_group-20/blob/main/notebooks/Milestone3/Milestone3.ipynb).
+
+
 ## Contributors
 
 We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/UBC-MDS/525_group-20/graphs/contributors).
