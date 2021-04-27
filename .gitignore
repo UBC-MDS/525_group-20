@@ -3,3 +3,4 @@ data/
 .DS_Store
 *.pem
 foxyproxy-settings.json
+__pycache__
